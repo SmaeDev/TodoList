@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="add_task">Ajout d\'une tâche</string>
+    <string name="update_task">Mise à jour de la tâche</string>
+    <string name="done">Effectuée</string>
+    <string name="todo">À faire</string>
+
+    <string name="task_title">Titre de la tâche</string>
+    <string name="task_description">Description de la tâche</string>
+    <string name="task_delay">Durée de réalisation</string>
+    <string name="mark_as_done">Marquer comme effectuée</string>
+
+    <string name="update">Mettre à jour</string>
+    <string name="save">Enregistrer</string>
+    <string name="delete">Supprimer</string>
+
+    <string name="saved">Tâche enregistrée</string>
+    <string name="updated">Tâche modifiée</string>
+
+    <string name="title_required">Tâche exigée</string>
+    <string name="description_required">Description exigée</string>
+    <string name="delay_required">Délai exigé</string>
+</resources>
